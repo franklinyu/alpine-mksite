@@ -4,6 +4,9 @@ date: 2013-06-20
 ---
 
 # Alpine Linux forums
+
+**Note in 2018**: we have retired the forum. Please see [here](/community/) for latest information about community.
+
 We are recently receiving more and more support questions from users, but our infrastructure does not provide any place for them.
 To provide an easy way for users to contact each other and Alpine Linux developers, we have setup Alpine Linux forum.
 
